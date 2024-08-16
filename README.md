@@ -34,7 +34,7 @@ This project is a Movie Recommendation System that uses machine learning techniq
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/Movie-Recommendation-System.git
+    git clone https://github.com/Pahinithi/Movie-Recommendation-System-using-Machine-Learning/tree/main
     cd Movie-Recommendation-System
     ```
 
